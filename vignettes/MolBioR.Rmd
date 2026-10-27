@@ -1,6 +1,6 @@
 ---
 title: "MolBioR"
-output: rmarkdown::pdf_document
+output: rmarkdown::html_document
 vignette: >
   %\VignetteIndexEntry{MolBioR}
   %\VignetteEngine{knitr::rmarkdown}
