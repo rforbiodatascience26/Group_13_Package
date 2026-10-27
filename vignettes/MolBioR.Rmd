@@ -17,3 +17,11 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(MolBioR)
 ```
+
+This package allow the user to quickly walk-through the central dogma in R, and includes five functions.
+
+The function `DNA_seq_generator` creates an arbitrary DNA sequence of a given length:
+
+```{r}
+DNA_seq_generator(90)
+```
