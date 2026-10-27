@@ -23,5 +23,9 @@ This package allow the user to quickly walk-through the central dogma in R, and 
 The function `DNA_seq_generator` creates an arbitrary DNA sequence of a given length:
 
 ```{r}
-DNA_seq_generator(90)
+test_DNA <- DNA_seq_generator(90)
+```
+
+```{r}
+DNA_to_RNA(test_DNA)
 ```
