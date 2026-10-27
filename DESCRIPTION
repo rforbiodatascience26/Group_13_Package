@@ -19,7 +19,7 @@ Authors@R: c(
            family = "Olsen",
            role = "aut",
            email = "s215049@dtu.dk"),
-           person(given = "Alma",
+           person(given = "Alma Rosa",
            family = "Willumsen",
            role = "aut",
            email = "s224991@dtu.dk")
