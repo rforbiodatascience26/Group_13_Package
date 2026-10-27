@@ -3,7 +3,7 @@
 \docType{data}
 \name{codon_table}
 \alias{codon_table}
-\title{Title}
+\title{Codon table}
 \format{
 An object of class \code{character} of length 64.
 }
