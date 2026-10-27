@@ -20,12 +20,16 @@ library(MolBioR)
 
 This package allow the user to quickly walk-through the central dogma in R, and includes five functions.
 
-The function `DNA_seq_generator` creates an arbitrary DNA sequence of a given length:
+The first function `DNA_seq_generator` creates an arbitrary DNA sequence of a given length:
 
 ```{r}
 test_DNA <- DNA_seq_generator(90)
+test_DNA
 ```
 
+The
+
 ```{r}
-DNA_to_RNA(test_DNA)
+RNA_test <- DNAtoRNA(test_DNA)
+RNA_test
 ```
