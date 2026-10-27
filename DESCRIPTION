@@ -2,35 +2,16 @@ Package: MolBioR
 Type: Package
 Title: Replication of the central dogma of molecular biology!
 Version: 0.1.0
-Authors@R: c(
-           person(given = "Jakob",
+Authors@R: c(person(given = "Jakob",
            family = "Ytte",
            role = c("aut", "cre"), # There must be a "cre", but there can only be one
            email = "s194659@dtu.dk"),
-           
            person(given = "Magnus",
            family = "Orkild",
            role = "aut",
-           email = "s25081@dtu.dk"),
-           
-           person(given = "Freja",
-           family = "Bonde",
-           role = "aut",
-           email = "s203517@dtu.dk"),
-           
-           person(given = "Fredrik",
-           family = "Olsen",
-           role = "aut",
-           email = "s215049@dtu.dk"),
-           
-           person(given = "Alma",
-           family = "Willumsen",
-           role = "aut",
-           email = "s224991@dtu.dk"))
-           
-           )
+           email = "s25081@dtu.dk"))
 Description: More about what it does (maybe more than one line).
     Continuation lines should be indented.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
