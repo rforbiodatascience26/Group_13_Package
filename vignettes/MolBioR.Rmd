@@ -55,5 +55,6 @@ aa_test
 The fifth and final function `aa_distribution_plot` creates a plot to visualize the distribution of the amino acids in the sequence.
 
 ```{r}
-
+pl <- aa_distribution_plot(aa_test)
+pl
 ```

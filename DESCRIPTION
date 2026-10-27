@@ -42,4 +42,3 @@ VignetteBuilder: knitr
 Imports: 
     ggplot2 (>= 3.5.1),
     stringr (>= 1.5.1)
-RoxygenNote: 7.3.2
